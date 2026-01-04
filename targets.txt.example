@@ -1,0 +1,15 @@
+# Example targets file
+# Add your targets here, one per line
+
+# Examples for manual mode:
+https://api.example.com
+https://app.example.com
+https://admin.example.com
+
+# You can also add IPs:
+https://192.168.1.100:8080
+https://10.0.0.50
+
+# Or domains without protocol (will default to https):
+portal.example.com
+dashboard.example.com

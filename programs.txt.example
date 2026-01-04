@@ -1,0 +1,46 @@
+# Bug Bounty Programs - Top 100 Domains
+# Use this file with --auto-hunt mode
+# The tool will find subdomains, check for live hosts, and scan for Spring Boot Actuators
+
+# Top Bug Bounty Programs
+bugcrowd.com
+hackerone.com
+intigriti.com
+yeswehack.com
+synack.com
+
+# Major Tech Companies
+google.com
+microsoft.com
+apple.com
+amazon.com
+facebook.com
+netflix.com
+uber.com
+airbnb.com
+twitter.com
+linkedin.com
+
+# Financial Services
+paypal.com
+stripe.com
+square.com
+coinbase.com
+revolut.com
+
+# E-commerce
+shopify.com
+ebay.com
+alibaba.com
+walmart.com
+
+# SaaS Companies
+salesforce.com
+slack.com
+zoom.us
+dropbox.com
+atlassian.com
+
+# Add your targets here...
+# example1.com
+# example2.com
